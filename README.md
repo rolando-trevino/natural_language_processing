@@ -1,3 +1,3 @@
-# tutorials
+# natural_language_processing
 
-This repository contains tutorials on a variety of ml topics I've gotten into
+This repository contains work related to the field of NLP. I'll continue adding to it as I learn new things.
